@@ -7,7 +7,8 @@
   <b>Problem</b>--- (2.c) This program converts either feet to meters or meters to feet, depending upon what the user requests.<br>
   <b>Problem</b>--- (3.c) Write a program that asks the user for an integer and then tells the user if that number is even or odd. (Hint, use C's modulus operator %.)
   <br><br>
-  2. Add the else.<br>
+  2. <b>Add the else.</b><br>
+  <p>If the expression is true, then the target of the <b>if</b> will execute, and the <b>else</b> portion will be skippes. However, if the expression is false, then the target of the <b>if</b> is bypassed, and the target of the <b>else</b> will execute. Under no circumstances will both statements execute. Thus, the addition of the <b>else</b> provides a two-way decision path.</p><br>
   3. Create blocks of code.<br>
   4. Use the foor loop.<br>
   5. Substitute C's ncrement and decrement operators.<br>
