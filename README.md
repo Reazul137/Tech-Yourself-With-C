@@ -1,4 +1,5 @@
 <h1>Introducing C's program control statement</h1><br>
+<p>In this section, i will learn about two of C's most important program control statements: <b>if/b> and <b>for</b>. In general, program control statements determine your program's flow of execution. As such, they form the backbone of programs. In addition to these, i will also learn about blocks of code, the relational and logical operators, and more about the <b>printf()</b> function.</p><br>
  <b>Topic</b><br>
   1. Become familiar with the if.<br>
   2. Add the else.<br>
