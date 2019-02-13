@@ -8,6 +8,7 @@
   <b>Problem</b>--- (3.c) Write a program that asks the user for an integer and then tells the user if that number is even or odd. (Hint, use C's modulus operator %.)
   <br><br>
   <b>Topic 2. Add the else.</b><br>
+  <b>Problem</b>--- (4.c) You can use the <b>else</b> to create more efficient code in some cases. For example, here the <b>else</b> is used in place of a second if in the program from the preceding section, which determines whether a number is negative or non-negative.<br>
   <p>If the expression is true, then the target of the <b>if</b> will execute, and the <b>else</b> portion will be skippes. However, if the expression is false, then the target of the <b>if</b> is bypassed, and the target of the <b>else</b> will execute. Under no circumstances will both statements execute. Thus, the addition of the <b>else</b> provides a two-way decision path.</p><br>
   3. Create blocks of code.<br>
   4. Use the foor loop.<br>
