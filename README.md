@@ -21,17 +21,20 @@
   
   <b>Problem</b>--- (7.c) This program is an improved version of the feet-to-meters, meters-to-feet conversion program. Notice how the use of code blocks allows the program to prompt specifically for each unit.<br>
  <b>Problem</b>--- (8.c) Using code blocks, we can improve the addition drill program so that it also prints the correct answer when the user makes a mistake.<br>
- <b>Problem</b>--- (9.c) Write a program that either adds or subtracts two integers. First, prompt the user to choose an operation; then prompt for the two numbers and display the result.<br>
+ <b>Problem</b>--- (9.c) Write a program that either adds or subtracts two integers. First, prompt the user to choose an operation; then prompt for the two numbers and display the result.<br><br>
+ 
   
-  
-  
-  
-  
-  
-  
-  
-  
-  4. Use the foor loop.<br>
+  <b>Topic 4. Use the foor loop.</b>
+  <p>The <b>for</b> loop is one of C's three loop statements. It allows one or more statements to be repeated. if you have programmed in any other computer language, such as <b>BASIC or Pascal</b>, you will be pleased to learn that the <b>for</b> behaves much like its equivalent in other languages.<br>
+The <b>for</b> loop is considered by many C programmers to be its most flexible loop. Although the <b>for</b> loop allows a large number of variations.</p><br>
+
+
+
+
+
+
+
+
   5. Substitute C's ncrement and decrement operators.<br>
   6. expand printf()'s capability.<br>
   7. Program with C;s relational and logical operators.<br>
