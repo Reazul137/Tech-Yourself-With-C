@@ -12,6 +12,7 @@
   
   <b>Problem</b>--- (4.c) You can use the <b>else</b> to create more efficient code in some cases. For example, here the <b>else</b> is used in place of a second if in the program from the preceding section, which determines whether a number is negative or non-negative.<br>
   <b>Problem</b>--- (5.c) This program prompts the user for two numbers divides the first by the second, and display the result. However division by zero is undefined, so the program uses an <b>if</b> and an <b>else</b> statement to prevent division by zero from occurring.<br>
+  <b>Problem</b>--- (6.c) Write a program that requests two numbers and then displays either their sum or product, depending on what the user selects.<br>
   3. Create blocks of code.<br>
   4. Use the foor loop.<br>
   5. Substitute C's ncrement and decrement operators.<br>
