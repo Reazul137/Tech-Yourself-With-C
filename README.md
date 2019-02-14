@@ -20,6 +20,7 @@
   <p>In C, you can link two or more statements together, This is called a <b>block of code or a code block</b>. To create a block of code, you surround the statements in the block with opening and closing curly braces. Once this is done, the statements form one logical unit, which may be used anywhere that a single statement may.</p><br>
   
   <b>Problem</b>--- (7.c) This program is an improved version of the feet-to-meters, meters-to-feet conversion program. Notice how the use of code blocks allows the program to prompt specifically for each unit.<br>
+ <b>Problem</b>--- (8.c) Using code blocks, we can improve the addition drill program so that it also prints the correct answer when the user makes a mistake.<br>
   
   
   
