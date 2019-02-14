@@ -11,6 +11,7 @@
   <p>If the expression is true, then the target of the <b>if</b> will execute, and the <b>else</b> portion will be skippes. However, if the expression is false, then the target of the <b>if</b> is bypassed, and the target of the <b>else</b> will execute. Under no circumstances will both statements execute. Thus, the addition of the <b>else</b> provides a two-way decision path.</p><br>
   
   <b>Problem</b>--- (4.c) You can use the <b>else</b> to create more efficient code in some cases. For example, here the <b>else</b> is used in place of a second if in the program from the preceding section, which determines whether a number is negative or non-negative.<br>
+  <b>Problem</b>--- (5.c) This program prompts the user for two numbers divides the first by the second, and display the result. However division by zero is undefined, so the program uses an <b>if</b> and an <b>else</b> statement to prevent division by zero from occurring.<br>
   3. Create blocks of code.<br>
   4. Use the foor loop.<br>
   5. Substitute C's ncrement and decrement operators.<br>
