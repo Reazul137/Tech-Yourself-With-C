@@ -21,6 +21,7 @@
   
   <b>Problem</b>--- (7.c) This program is an improved version of the feet-to-meters, meters-to-feet conversion program. Notice how the use of code blocks allows the program to prompt specifically for each unit.<br>
  <b>Problem</b>--- (8.c) Using code blocks, we can improve the addition drill program so that it also prints the correct answer when the user makes a mistake.<br>
+ <b>Problem</b>--- (9.c) Write a program that either adds or subtracts two integers. First, prompt the user to choose an operation; then prompt for the two numbers and display the result.<br>
   
   
   
