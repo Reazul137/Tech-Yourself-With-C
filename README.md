@@ -7,14 +7,17 @@
   <b>Problem</b>--- (2.c) This program converts either feet to meters or meters to feet, depending upon what the user requests.<br>
   <b>Problem</b>--- (3.c) Write a program that asks the user for an integer and then tells the user if that number is even or odd. (Hint, use C's modulus operator %.)
   <br><br>
+  
+  
   <b>Topic 2. Add the else.</b><br>
   <p>If the expression is true, then the target of the <b>if</b> will execute, and the <b>else</b> portion will be skippes. However, if the expression is false, then the target of the <b>if</b> is bypassed, and the target of the <b>else</b> will execute. Under no circumstances will both statements execute. Thus, the addition of the <b>else</b> provides a two-way decision path.</p><br>
   
   <b>Problem</b>--- (4.c) You can use the <b>else</b> to create more efficient code in some cases. For example, here the <b>else</b> is used in place of a second if in the program from the preceding section, which determines whether a number is negative or non-negative.<br>
   <b>Problem</b>--- (5.c) This program prompts the user for two numbers divides the first by the second, and display the result. However division by zero is undefined, so the program uses an <b>if</b> and an <b>else</b> statement to prevent division by zero from occurring.<br>
-  
   <b>Problem</b>--- (6.c) Write a program that requests two numbers and then displays either their sum or product, depending on what the user selects.<br><br>
-  <b>Topic 3. Create blocks of code.</b><br>
+  
+  
+  <b>Topic 3. Create blocks of code.</b>
   <p>In C, you can link two or more statements together, This is called a <b>block of code or a code block</b>. To create a block of code, you surround the statements in the block with opening and closing curly braces. Once this is done, the statements form one logical unit, which may be used anywhere that a single statement may.</p><br>
   
   
